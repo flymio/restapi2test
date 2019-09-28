@@ -1,0 +1,21 @@
+{
+    "id": 25,
+    "products": [
+        {
+            "id": 3,
+            "issn": "1245-1134",
+            "name": "test1",
+            "status": "NEW"
+        },
+        {
+            "id": 4,
+            "issn": "2456-5512",
+            "name": "test2",
+            "status": "NEW"
+        }
+    ],
+    "first_name": "Roman",
+    "last_name": "Borisoglebskiy",
+    "date_of_birth": "1982-08-08T00:00:00+00:00",
+    "status": "NEW"
+}
